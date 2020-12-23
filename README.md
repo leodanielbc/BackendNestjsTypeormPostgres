@@ -1,6 +1,6 @@
 ## Description
 
-Proyecto de registro de usuarios.
+Proyecto de registro de usuarios (CRUD).
 
 ## Tecnologias
 - [Nest](https://github.com/nestjs/nest) framework TypeScript.
